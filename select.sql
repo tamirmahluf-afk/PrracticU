@@ -1,0 +1,1 @@
+select * from EMPTY_BLOB
