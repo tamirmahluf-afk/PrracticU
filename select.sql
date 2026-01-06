@@ -1,1 +1,1 @@
-select * from EMPTY_BLOB
+select * from EMPTY_BLOB where id=
